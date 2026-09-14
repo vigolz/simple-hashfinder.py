@@ -1,4 +1,4 @@
-#typer af hash den skal kunne finde
+#Types of hashes it should be able to find
 #md5, sha1 sha256, sha512, bycrypt, scrypt, argon2, PBKDF2, 
 
 def find_hash_type(hash_string):
